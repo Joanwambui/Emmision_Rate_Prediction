@@ -1,6 +1,6 @@
 # Emmision_Rate_Prediction
-Creating Machine learning models to predict the emission rates of different kinds of vehicles.
-Creating Machine learning models to predict the emission rates of different kinds of vehicles.In this project the following steps were taken inorder to come up with the most suitable machine learning model tailored to our needs.
+
+Creating Machine learning models to predict the emission rates of different kinds of vehicles.In this project the following steps were taken in order to come up with the most suitable machine learning model tailored to our needs.
 1.)Import libraries 
 2.)Load the dataset 
 3.)Perform Exploratory Data Analysis-check for null values,datatypes,visualizations 
